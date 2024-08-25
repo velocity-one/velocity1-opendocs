@@ -47,7 +47,7 @@ In consideration of the support provided by the Incubator, the Founder agrees to
 - 10% of Monthly Recurring Revenue (MRR) exceeding $10,000
 
 For example, if the MRR is $15,000, the revenue share would be calculated as:
-(20% _ $10,000) + (10% _ $5,000) = $2,000 + $500 = $2,500
+(20% x $10,000) + (10% x $5,000) = $2,000 + $500 = $2,500
 
 **MULTIPLE/CAP:**
 
