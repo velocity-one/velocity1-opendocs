@@ -79,7 +79,7 @@ If the Project is sold before the revenue share model is fully completed, the re
 
 The Founder shall actively participate in the incubation camp provided by the Incubator. The terms of participation are as follows:
 
-- Upon joining the incubator, the Founder is required to pay a deposit of **$299**. This deposit is intended to ensure the Founder's commitment and efforts during the incubation period (3 months).
+- Upon joining the incubator, the Founder is required to pay a deposit of **$299**. This deposit is intended to ensure the Founder's commitment and efforts during the incubation period.
 - The deposit is refundable if the Founder achieves the predefined goals by the end of the incubation period. The specific goals will be mutually determined by the Founder and the Incubator.
 
 **COLLATERAL REQUIREMENT:**
