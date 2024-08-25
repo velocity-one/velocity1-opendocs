@@ -2,11 +2,11 @@
 
 **PARTIES**
 
-BETWEEN: ****\_\_\_\_****
+BETWEEN: \***\*\_\_\_\_\*\***
 
 Hereinafter referred to as "the Incubator".
 
-AND: ****\_\_\_\_****
+AND: \***\*\_\_\_\_\*\***
 
 Hereinafter referred to as "the Developer".
 
