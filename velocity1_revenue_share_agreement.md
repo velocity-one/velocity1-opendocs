@@ -20,22 +20,38 @@ Hereinafter referred to as "the Founder".
 
 **OBJECT:**
 
-The Incubator grants the Founder support (**$7000**) which is valued in the following form:
+The Incubator grants the Founder support valued at **$7,000**, which is broken down as follows:
 
-1. Training Resources (Valued $1000):
-   1. Access to the knowledge base.
-   2. Access to training camp content.
-   3. Access to past incubation projects.
-2. Channels (Valued $2000):
-   1. ProductLaunch.
-   2. Access to product launch websites and platforms.
-3. Value-Added Services (Valued $4000 subject to further agreements):
-   1. Idea validation.
-   2. Revision of product landing pages.
-   3. Paid advertising support.
-   4. Assistance in payment.
-   5. Assistance in marketing.
-   6. SEO analysis.
+1. Training Resources (Valued $1,000):
+
+   1. Access to comprehensive knowledge base and industry insights ($200)
+   2. Participation in intensive training camp programs ($500)
+   3. Access to case studies and data from past incubation projects ($200)
+   4. Personalized mentorship from industry experts ($100)
+
+2. Channels and Networking (Valued $2,500):
+
+   1. Strategic product launch support on major platforms ($2,000)
+   2. Access to exclusive product launch websites and platforms ($200)
+   3. Introduction to the Incubator's network of investors, partners, and potential clients ($200)
+   4. Participation in networking events and founder meetups ($100)
+
+3. Value-Added Services (Valued $2,800):
+
+   1. Comprehensive idea validation and market research ($500)
+   2. Professional revision and optimization of product landing pages ($400)
+   3. Targeted paid advertising support and strategy ($500)
+   4. Assistance in setting up and optimizing payment systems ($200)
+   5. Customized marketing strategy development and execution support ($500)
+   6. In-depth SEO analysis and optimization ($400)
+   7. User experience (UX) review and recommendations ($150)
+   8. Legal and compliance guidance ($150)
+
+4. Technical and Global Market Support (Valued $700):
+   1. Access to cutting-edge AI tools and resources ($200)
+   2. Technical architecture review and optimization ($150)
+   3. Cultural adaptation and localization guidance ($175)
+   4. Support in building a global brand presence ($175)
 
 The Founder shall have the opportunity to apply for additional funding or support from the Incubator under the terms outlined in this agreement. The Incubator retains the discretion to approve or deny any such application.
 
