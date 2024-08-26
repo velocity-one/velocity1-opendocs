@@ -75,6 +75,9 @@ In the event of the sale of the Project within 18 months from the commencement o
 
 If the Project is sold before the revenue share model is fully completed, the remaining revenue share obligation converts to a debt, and the Founder shall make a one-time cash payment to the Incubator. The final repayment date for the remaining revenue share (balloon payment) will be within 30 days of the date sold. On this final repayment date, the Founder must pay the Incubator the remaining amount to fulfill the adjusted multiple/cap.
 
+**Pro-Rata Clause:**
+In the event of an exit (sale of the Project or revenue share model completion), the Incubator gets a right to continue to invest in subsequent rounds of financing you raise (a “pro rata” right) up to a maximum of **7%**. For example, if the Founder issues new shares representing 20% of its post-financing outstanding shares, the Incubator would have the right to purchase up to 7% of the newly issued shares to maintain its ownership stake.
+
 **INCUBATION:**
 
 The Founder shall actively participate in the incubation camp provided by the Incubator. The terms of participation are as follows:
