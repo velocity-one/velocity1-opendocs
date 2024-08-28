@@ -1,13 +1,19 @@
 # Velocity1 Revenue Share Agreement
 
-**version** = "4.1.1"
+**version** = "4.1.2"
 
 **PARTIES**
 
-BETWEEN: **\_\_\_**
+BETWEEN:
+
+---
+
 Hereinafter referred to as "the Incubator".
 
-AND: **\_\_\_**
+AND:
+
+---
+
 Hereinafter referred to as "the Founder".
 
 **RECITALS**
@@ -93,3 +99,35 @@ The Founder will apply all necessary resources and will take all necessary actio
 **INFORMATION OBLIGATIONS:**
 
 The Founder shall provide the Incubator with adequate information about the state of the products.
+
+**SIGNATURES:**
+
+IN WITNESS WHEREOF, the parties hereto have executed this Revenue Share Agreement as of the date first above written.
+
+For the Incubator:
+
+---
+
+Signature
+
+---
+
+Name (Printed)
+
+---
+
+Date
+
+For the Founder:
+
+---
+
+Signature
+
+---
+
+Name (Printed)
+
+---
+
+Date
