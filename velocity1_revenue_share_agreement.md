@@ -1,6 +1,6 @@
 # Velocity1 Revenue Share Agreement
 
-**version** = "4.1.2"
+**version** = "4.2.0"
 
 **PARTIES**
 
@@ -79,7 +79,12 @@ Upon reaching the multiple/cap of 5 times, the revenue-sharing agreement between
 
 In the event of the sale of the Project within 18 months from the commencement of this agreement, the revenue share multiple/cap will be reduced to 3 times.
 
-If the Project is sold before the revenue share model is fully completed, the remaining revenue share obligation converts to a debt, and the Founder shall make a one-time cash payment to the Incubator. The final repayment date for the remaining revenue share (balloon payment) will be within 30 days of the date sold. On this final repayment date, the Founder must pay the Incubator the remaining amount to fulfill the adjusted multiple/cap.
+If the Project is sold before the revenue share model is fully completed, the Incubator will receive **20%** of the sale price. If the calculated share from the sale price exceeds the remaining amount needed to reach the adjusted multiple/cap, the Incubator's share will be limited to the amount needed to fulfill the adjusted multiple/cap.
+
+For example,
+
+- if the product is sold for $10,000 after 1 year, the Incubator will receive $2,000 (20% of $10,000)
+- if the product is sold for $300,000 after 3 years, the Incubator will receive $35,000 (5 x $7,000, if there is a follow-up investment, the cap will be adjusted accordingly)
 
 **INCUBATION:**
 
